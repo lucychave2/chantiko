@@ -1,2 +1,2 @@
-# chantiko
-prueba 1.5
+# chantiko-prueba
+chantiko-prueba 1
